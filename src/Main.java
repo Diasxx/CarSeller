@@ -11,6 +11,5 @@ public class Main {
         DBManager.connect();
         frame = new MainFrame();
         frame.setVisible(true);
-
     }
 }
