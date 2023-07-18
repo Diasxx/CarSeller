@@ -1,0 +1,20 @@
+Created user b b at Tue May 23 12:21:11 ALMT 2023
+Loged user a a at Tue May 23 12:23:53 ALMT 2023
+Loged user a a at Tue May 23 12:49:03 ALMT 2023
+Inserted car a a at Tue May 23 12:49:03 ALMT 2023
+Loged user a a at Tue May 23 12:53:05 ALMT 2023
+Loged user a a at Tue May 23 12:53:34 ALMT 2023
+a a bought car Honda Civic 2020 at Tue May 23 12:53:34 ALMT 2023
+Loged user a a at Tue May 23 12:57:08 ALMT 2023
+Loged user a a at Tue May 23 12:57:49 ALMT 2023
+Created user Dias Shukirbay at Tue May 23 13:22:45 ALMT 2023
+Inserted car canry 2023 at Tue May 23 13:22:45 ALMT 2023
+Dias Shukirbay bought car Ford Mustang 2015 at Tue May 23 13:22:45 ALMT 2023
+Created user sanajr rus at Tue May 23 14:51:59 ALMT 2023
+sanajr rus bought car BMW X5 2019 at Tue May 23 14:51:59 ALMT 2023
+Created user Asylay Shukirbay at Sun Jun 04 23:04:22 ALMT 2023
+Loged user Asylay Shukirbay at Sun Jun 04 23:04:22 ALMT 2023
+Loged user Asylay Shukirbay at Sun Jun 04 23:04:22 ALMT 2023
+Inserted car camry 2023 at Sun Jun 04 23:04:22 ALMT 2023
+Asylay Shukirbay bought car Toyota Camry 2018 at Sun Jun 04 23:04:22 ALMT 2023
+Loged user a a at Tue Jun 27 14:44:38 ALMT 2023
