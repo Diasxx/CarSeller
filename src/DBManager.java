@@ -2,7 +2,7 @@ import java.sql.*;
 import java.util.ArrayList;
 
 public class DBManager {
-    public static final String url = "jdbc:postgresql://localhost:5432/dias"; // input the name of your database
+    public static final String url = "jdbc:postgresql://localhost:5432/CarSeller"; // input the name of your database
     public static final String user = "postgres";
     public static final String password = "1234";
     public static Connection connection;
