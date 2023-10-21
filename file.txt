@@ -20,3 +20,8 @@ Asylay Shukirbay bought car Toyota Camry 2018 at Sun Jun 04 23:04:22 ALMT 2023
 Loged user a a at Tue Jun 27 14:44:38 ALMT 2023
 Loged user a a at Tue Jul 18 19:31:51 ALMT 2023
 Created user a a at Wed Sep 20 22:54:15 ALMT 2023
+Loged user a a at Sun Oct 15 18:14:33 ALMT 2023
+Inserted car a a at Sun Oct 15 18:14:33 ALMT 2023
+Inserted car a a at Sun Oct 15 18:14:33 ALMT 2023
+Loged user a a at Sun Oct 15 18:19:46 ALMT 2023
+Inserted car a a at Sun Oct 15 18:19:46 ALMT 2023

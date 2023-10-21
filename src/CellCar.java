@@ -18,7 +18,6 @@ public class CellCar extends Container {
         setSize(700, 700);
         setLayout(null);
 
-
         // Метка и текстовое поле для модели машины
         modelLabel = new JLabel("Model:");
         modelLabel.setBounds(200, 50, 100, 30);

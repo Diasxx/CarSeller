@@ -156,7 +156,7 @@ public class DBManager {
         }
 
         PreparedStatement statement = connection.prepareStatement(
-                "INSERT INTO public.\"Car\" (model, year, mileage, price, volume, transmission, drive, helm, color) " +
+                "INSERT INTO public.\"Car\" ("model", year, mileage, price, volume, transmission, drive, helm, color) " +
                         "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"
         );
         statement.setString(1, car.getModel());
