@@ -2,9 +2,9 @@ import java.sql.*;
 import java.util.ArrayList;
 
 public class DBManager {
-    public static final String url = "jdbc:postgresql://localhost:5432/CarSeller"; // input the name of your database
+    public static final String url = "jdbc:postgresql://localhost:9999/CarSeller"; // input the name of your database
     public static final String user = "postgres";
-    public static final String password = "1234";
+    public static final String password = "0000";
     public static Connection connection;
 
     public static void connect() {
@@ -75,8 +75,7 @@ public class DBManager {
      User user = null;
         try
         {
-            PreparedStatement statement = connection.prepareStatement(""
-                    + "SELECT * FROM public.\"User\" WHERE login = ? AND password = ?");
+            PreparedStatement statement = connection.prepareStatement( "SELECT * FROM public.\"User\" WHERE login = ? AND password = ?");
 
             statement.setString(1,login);
             statement.setString(2,password);
@@ -155,8 +154,7 @@ public class DBManager {
             return; // or throw an exception
         }
 
-        PreparedStatement statement = connection.prepareStatement(
-                "INSERT INTO public.\"Car\" ("model", year, mileage, price, volume, transmission, drive, helm, color) " +
+        PreparedStatement statement = connection.prepareStatement( "INSERT INTO public.\"Car\" (model, year, mileage, price, volume, transmission, drive, helm, color) " +
                         "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"
         );
         statement.setString(1, car.getModel());
